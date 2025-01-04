@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\bin\Debug\PercentCalculation.exe.config
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\bin\Debug\PercentCalculation.exe
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\bin\Debug\PercentCalculation.pdb
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\obj\Debug\PercentCalculation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\obj\Debug\PercentCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\obj\Debug\PercentCalculation.exe
+C:\Users\Lenovo\Desktop\PercentCalculation\PercentCalculation\obj\Debug\PercentCalculation.pdb
